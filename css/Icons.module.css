@@ -1,0 +1,11 @@
+i[class*='icon'] {
+  font-style: normal;
+}
+
+.icon-burger::after {
+  content: '☰';
+}
+
+.icon-close::after {
+  content: '✕';
+}

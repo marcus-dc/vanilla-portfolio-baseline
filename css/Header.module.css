@@ -1,0 +1,12 @@
+.app-header {
+  padding: 0 16px;
+  height: 48px;
+}
+
+.app-header nav > ul {
+  gap: 8px;
+}
+
+.app-header nav > ul > li {
+  list-style-type: none;
+}
